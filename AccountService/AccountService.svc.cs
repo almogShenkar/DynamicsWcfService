@@ -60,7 +60,9 @@ namespace AccountService
                                       select account).ToArray();
                     if (queryEmail.Length == 0)
                         return "Not Found";
-                    return queryEmail[0].Id.ToString();
+                    var firstAccountFound = queryEmail[0];
+                    service.Delete(firstAccountFound.LogicalName, firstAccountFound.Id);
+                    return "Deleted Successfully :"+ firstAccountFound.Id.ToString();
                 }
             }
             catch (Exception e)
@@ -109,8 +111,10 @@ namespace AccountService
                                       select account).ToArray();
                     if (queryEmail.Length == 0)
                         return "Not Found";
-                    queryEmail[0]["telephone1"] = phone;
-                    service.Update(queryEmail[0]);
+                    var firstAccountFound =queryEmail[0];
+                    firstAccountFound["telephone1"] = phone;
+                    svcContext.UpdateObject(firstAccountFound);
+                    svcContext.SaveChanges();
                     return "updated successfully";
                 }
             }
