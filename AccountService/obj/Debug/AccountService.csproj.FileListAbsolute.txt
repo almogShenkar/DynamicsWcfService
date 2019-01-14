@@ -1,0 +1,9 @@
+C:\Users\almog\source\repos\AccountService\AccountService\bin\AccountService.dll.config
+C:\Users\almog\source\repos\AccountService\AccountService\bin\AccountService.dll
+C:\Users\almog\source\repos\AccountService\AccountService\bin\AccountService.pdb
+C:\Users\almog\source\repos\AccountService\AccountService\obj\Debug\AccountService.csprojAssemblyReference.cache
+C:\Users\almog\source\repos\AccountService\AccountService\obj\Debug\AccountService.csproj.CoreCompileInputs.cache
+C:\Users\almog\source\repos\AccountService\AccountService\obj\Debug\AccountService.dll
+C:\Users\almog\source\repos\AccountService\AccountService\obj\Debug\AccountService.pdb
+C:\Users\almog\source\repos\AccountService\AccountService\bin\Microsoft.Xrm.Sdk.dll
+C:\Users\almog\source\repos\AccountService\AccountService\obj\Debug\AccountService.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\bin\Debug\ServiceHostRun.exe.config
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\bin\Debug\ServiceHostRun.exe
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\bin\Debug\ServiceHostRun.pdb
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\bin\Debug\AccountService.dll
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\bin\Debug\AccountService.pdb
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\bin\Debug\AccountService.dll.config
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\obj\Debug\ServiceHostRun.csprojAssemblyReference.cache
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\obj\Debug\ServiceHostRun.csproj.CoreCompileInputs.cache
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\obj\Debug\ServiceHostRun.csproj.CopyComplete
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\obj\Debug\ServiceHostRun.exe
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\obj\Debug\ServiceHostRun.pdb
+C:\Users\almog\source\repos\AccountService\ServiceHostRun\bin\Debug\Microsoft.Xrm.Sdk.dll
